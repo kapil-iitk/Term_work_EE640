@@ -1,0 +1,542 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.26)  17 APR 2014 18:02
+entering extended mode
+**C:/Users/kapil/Desktop/for*my*term*work/tex/prl*-*Copy.tex
+("C:/Users/kapil/Desktop/for my term work/tex/prl - Copy.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(E:\latex\tex\latex\revtex4\revtex4.cls
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+(E:\latex\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+ (E:\latex\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+(E:\latex\tex\latex\revtex4\revsymb.sty
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)) (E:\latex\tex\latex\revtex4\aps.rtx
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+(E:\latex\tex\latex\revtex4\10pt.rtx
+File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+) (E:\latex\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(E:\latex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(E:\latex\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ (E:\latex\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (E:\latex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(E:\latex\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\latex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(E:\latex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(E:\latex\tex\latex\tools\dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+ (E:\latex\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen104
+\extrarowheight=\dimen105
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+))
+(E:\latex\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+) (E:\latex\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(E:\latex\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+LaTeX Info: Redefining \frak on input line 99.
+LaTeX Info: Redefining \Bbb on input line 101.
+))
+(E:\latex\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen106
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen107
+\subfiglabelskip=\skip50
+\c@subfigure=\count94
+\c@lofdepth=\count95
+\c@subtable=\count96
+\c@lotdepth=\count97
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(E:\latex\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+("C:\Users\kapil\Desktop\for my term work\tex\mcode.sty"
+-- Package: `mcode' 2.5 <2014/03/06> --
+Package: mcode 2014/03/06 2.5
+ - settings optimized for display (colour formating)
+(E:\latex\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (E:\latex\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(E:\latex\tex\latex\listings\listings.sty
+\lst@mode=\count98
+\lst@gtempboxa=\box34
+\lst@token=\toks19
+\lst@length=\count99
+\lst@currlwidth=\dimen108
+\lst@column=\count100
+\lst@pos=\count101
+\lst@lostspace=\dimen109
+\lst@width=\dimen110
+\lst@newlines=\count102
+\lst@lineno=\count103
+\lst@maxwidth=\dimen111
+
+(E:\latex\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count104
+\lst@skipnumbers=\count105
+\lst@framebox=\box35
+)
+(E:\latex\tex\latex\listings\listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+(E:\latex\tex\latex\base\textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+ (E:\latex\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+))
+("C:\Users\kapil\Desktop\for my term work\tex\prl - Copy.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
+
+(E:\latex\tex\latex\base\ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 16.
+Class revtex4 Info: Patching array package. on input line 16.
+Class revtex4 Info: cite was not loaded (OK!) on input line 16.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 16.
+ (E:\latex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen112
+\scratchbox=\box36
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen113
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks21
+)
+\c@lstlisting=\count112
+
+
+Class revtex4 Warning: Assuming \noaffiliation for Kapil Saraswat\\PhD Scholar\
+\Roll No. 13104176\\ \textbf {Instructor:} Dr. A.R. Harish.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+(E:\latex\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+ (E:\latex\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+[1{E:/latex/pdftex/config/pdftex.map}]
+<image1.jpg, id=19, 246.9225pt x 368.87813pt>
+File: image1.jpg Graphic file (type jpg)
+ <use image1.jpg>
+Package pdftex.def Info: image1.jpg used on input line 82.
+(pdftex.def)             Requested size: 123.46094pt x 184.4386pt.
+
+Overfull \hbox (10.80771pt too wide) detected at line 113
+\OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 j! [
+] [][] I\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 
+G\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; z \OT1/cmr/m/n/10 : \OML/cmm/m/it/10 x
+[]; y[]; z[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dz[]
+ []
+
+
+Overfull \hbox (34.498pt too wide) detected at line 121
+\OML/cmm/m/it/10 j!E[] \OT1/cmr/m/n/10 = [][] \OML/cmm/m/it/10 I[]\OT1/cmr/m/n
+/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 )[] [] \OML/cmm/m/it/10 dz[]
+ []
+
+[2 <C:/Users/kapil/Desktop/for my term work/tex/image1.jpg>]
+Overfull \hbox (1.75363pt too wide) detected at line 147
+[][] \OML/cmm/m/it/10 I\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 z[]\OT1/cmr/m/n/10 )[]
+\OML/cmm/m/it/10 dz[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 j[] 
+[]
+ []
+
+<image2.jpg, id=25, 489.32813pt x 328.22626pt>
+File: image2.jpg Graphic file (type jpg)
+ <use image2.jpg>
+Package pdftex.def Info: image2.jpg used on input line 193.
+(pdftex.def)             Requested size: 220.19562pt x 147.70044pt.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 200.
+
+
+(E:\latex\tex\latex\psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 202.
+
+ (E:\latex\tex\latex\psnfss\ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)
+Overfull \hbox (37.20288pt too wide) in paragraph at lines 206--207
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[3 <C:/Users/kapil/Desktop/for my term work/tex/image2.jpg>]
+<image3.jpg, id=33, 414.04688pt x 277.035pt>
+File: image3.jpg Graphic file (type jpg)
+ <use image3.jpg>
+Package pdftex.def Info: image3.jpg used on input line 242.
+(pdftex.def)             Requested size: 207.02292pt x 138.51715pt.
+
+<image4.jpg, id=34, 404.26031pt x 271.76532pt>
+File: image4.jpg Graphic file (type jpg)
+ <use image4.jpg>
+Package pdftex.def Info: image4.jpg used on input line 247.
+(pdftex.def)             Requested size: 202.12965pt x 135.88232pt.
+
+<image5.jpg, id=35, 400.49625pt x 274.77657pt>
+File: image5.jpg Graphic file (type jpg)
+ <use image5.jpg>
+Package pdftex.def Info: image5.jpg used on input line 252.
+(pdftex.def)             Requested size: 200.24763pt x 137.38794pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 259--261
+[]\OT1/cmr/m/n/10 The im-ple-men-ta-tion of Method of Mo-ment us-ing
+ []
+
+[4 <C:/Users/kapil/Desktop/for my term work/tex/image3.jpg> <C:/Users/kapil/Des
+ktop/for my term work/tex/image4.jpg> <C:/Users/kapil/Desktop/for my term work/
+tex/image5.jpg>] <source.jpg, id=42, 338.01282pt x 245.41687pt>
+File: source.jpg Graphic file (type jpg)
+
+<use source.jpg>
+Package pdftex.def Info: source.jpg used on input line 270.
+(pdftex.def)             Requested size: 169.00598pt x 122.70813pt.
+ <delta.jpg, id=43, 403.5075pt x 295.1025pt>
+File: delta.jpg Graphic file (type jpg)
+ <use delta.jpg>
+Package pdftex.def Info: delta.jpg used on input line 275.
+(pdftex.def)             Requested size: 201.75325pt x 147.55087pt.
+
+<frill.jpg, id=44, 405.01312pt x 292.84406pt>
+File: frill.jpg Graphic file (type jpg)
+ <use frill.jpg>
+Package pdftex.def Info: frill.jpg used on input line 280.
+(pdftex.def)             Requested size: 202.50606pt x 146.42166pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<subd.jpg, id=45, 398.23781pt x 301.8778pt>
+File: subd.jpg Graphic file (type jpg)
+ <use subd.jpg>
+Package pdftex.def Info: subd.jpg used on input line 302.
+(pdftex.def)             Requested size: 199.11841pt x 150.93852pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <C:/Users/kapil/Desktop/for my term work/tex/source.jpg> <C:/Users/kapil/Des
+ktop/for my term work/tex/delta.jpg> <C:/Users/kapil/Desktop/for my term work/t
+ex/frill.jpg>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 310.
+
+<entire.jpg, id=49, 405.01312pt x 287.57437pt>
+File: entire.jpg Graphic file (type jpg)
+ <use entire.jpg>
+Package pdftex.def Info: entire.jpg used on input line 321.
+(pdftex.def)             Requested size: 202.50606pt x 143.78683pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+ 
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 331--332
+ []\OT1/cmr/m/n/9 R. F. Har-ring-ton, "Fields Com-pu-ta-tion by Mo-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+ 
+ []
+
+[6 <C:/Users/kapil/Desktop/for my term work/tex/subd.jpg>] [7 <C:/Users/kapil/D
+esktop/for my term work/tex/entire.jpg>]
+("C:\Users\kapil\Desktop\for my term work\tex\prl - Copy.aux") ) 
+Here is how much of TeX's memory you used:
+ 5671 strings out of 493921
+ 73093 string characters out of 3154999
+ 154515 words of memory out of 3000000
+ 8885 multiletter control sequences out of 15000+200000
+ 17069 words of font info for 62 fonts, out of 3000000 for 9000
+ 844 hyphenation exceptions out of 8191
+ 33i,12n,42p,819b,1195s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/latex/fonts
+/enc/dvips/fontname/8r.enc}<E:/latex/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<E:/latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/latex/fonts/type1/publi
+c/amsfonts/cm/cmbx9.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
+E:/latex/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/latex/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><E:/
+latex/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:/latex/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmmi9.pfb><E:/latex
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/latex/fonts/type1/public/amsfonts
+/cm/cmr5.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/latex/fonts/
+type1/public/amsfonts/cm/cmr7.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmr8
+.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmr9.pfb><E:/latex/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+<E:/latex/fonts/type1/public/amsfonts/cm/cmti10.pfb><E:/latex/fonts/type1/publi
+c/amsfonts/cm/cmti7.pfb><E:/latex/fonts/type1/public/amsfonts/cm/cmti9.pfb><E:/
+latex/fonts/type1/public/amsfonts/symbols/msam10.pfb><E:/latex/fonts/type1/urw/
+courier/ucrr8a.pfb>
+Output written on "prl - Copy.pdf" (7 pages, 749744 bytes).
+PDF statistics:
+ 129 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
